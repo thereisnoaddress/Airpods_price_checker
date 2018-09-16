@@ -4,6 +4,4 @@ This is a simple scraper that uses *BeautifulSoup*, *urllib2*, and Python's *cur
 
 **To Run**
 
-Run this program as 
-    python airpods_scraping
-and you'll see the result. 
+Run this program as `python airpods_scraping` and you'll see the result. 
